@@ -32,33 +32,19 @@ A simple and interactive web-based sorting algorithm visualizer built with **HTM
 
 ## 📂 Project Structure
 Sorting_Visualiser/
-
-├── assets 
-
-|         └── demo.png
-
-|
-
-├── Javascript_files 
-
-|                   ├── bubble_sort.js
-
-|                   ├── insertion_sort.js
-
-|                   ├── merge_sort.js
-
-|                   ├── quick_sort.js
-
-|                   ├── selection_sort.js
-
-|                   └── sorting.js
-
-|
-
+├── assets/
+│   └── demo.png
+│
+├── Javascript_files/
+│   ├── bubble_sort.js
+│   ├── insertion_sort.js
+│   ├── merge_sort.js
+│   ├── quick_sort.js
+│   ├── selection_sort.js
+│   └── sorting.js
+│
 ├── index.html
-
 ├── README.md
-
 └── style.css
 
 
