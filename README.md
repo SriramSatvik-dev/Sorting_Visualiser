@@ -34,7 +34,7 @@ A simple and interactive web-based sorting algorithm visualizer built with **HTM
 Sorting_Visualiser/
 
 ├── assets 
-|         ├── demo.png
+|         └── demo.png
 |
 ├── Javascript_files 
 |                   ├── bubble_sort.js
@@ -42,12 +42,11 @@ Sorting_Visualiser/
 |                   ├── merge_sort.js
 |                   ├── quick_sort.js
 |                   ├── selection_sort.js
-|                   ├──sorting.js
+|                   └── sorting.js
 |
 ├── index.html
 ├── README.md
-├── style.css
-
+└── style.css
 
 
 ## 🧠 How It Works
@@ -58,3 +57,12 @@ Algorithms work by:
 - Comparing array elements
 - Swapping/moving values
 - Repeating steps until the array is sorted
+
+<!-- ## 🧪 How to Use
+
+1. Clone the repository:
+   ```bash
+    git clone https://github.com/SriramSatvik-dev/Sorting_Visualiser.git
+2. Open index.html in your browser.
+3. Choose a sorting algorithm and click "Start".
+ -->
